@@ -48,8 +48,8 @@ Sistem **Point of Sale (POS)** berbasis web yang dirancang untuk mendukung opera
 | Backend | Laravel |
 | Frontend | Blade + Bootstrap |
 | Database | MySQL |
-| Authentication | Laravel Breeze / Sanctum (opsional) |
-| PDF Generator | DOMPDF / Snappy (opsional) |
+| Authentication | Laravel Breeze |
+| PDF Generator | DOMPDF |
 
 ---
 
